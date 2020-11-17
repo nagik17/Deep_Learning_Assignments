@@ -27,7 +27,7 @@ in epoch.
 Heavy Text Preprocessing and Data Cleaning. 
 Applying CNN on all text documents and doing character embedding, then passing it onto neural network to get desired accuracy score.
 ## **LSTM:**
-![Capture](https://i.imgur.com/w395Yk9.png)
+![Capture](https://github.com/nagik17/Deep_Learning_Assignments/blob/main/1.JPG)
 3 tasks including 3 different models, one of which is above. Tasks included optimization, complex model architecture, decreasing genreal loss.
 ## **Transfer Learning:**
 #### **Model 1:**
